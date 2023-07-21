@@ -1,0 +1,66 @@
+h1{
+    color: pink;
+    font-family: cursive;
+    font-size: 40px;
+}
+
+.edad {
+    color: hotpink;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.cenicienta{
+    color: lightskyblue;
+}
+
+.nemo {
+    color: orange;
+}
+
+.montersinc {
+    color: lightgreen;
+}
+
+#caja {
+    width: 180px;
+    height: 90px;
+    border: 2px solid orchid;
+    margin-left: 160px;
+    background: rgb(238,174,202);
+    background: linear-gradient(176deg, rgba(238,174,202,1) 0%, rgba(173,46,150,1) 100%);
+    box-shadow: 15px 15px 10px rosybrown;
+    border-radius: 10px;
+}
+
+h3 {
+    color: royalblue;
+}
+
+p{
+    font-style: oblique;
+}
+
+.ubicacion {
+    font-size: 15px;
+    border-top: 10px groove #ff50e9;
+border-right: 10px groove #ff50ea;
+border-bottom: 10px groove #ff50d7;
+border-left: 10px groove #ff50d9;
+width: 350px;
+}
+
+.perfil{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.varita{
+    color: powderblue;
+    margin-left: 100px;
+}
+
+.corazon{
+    color: pink;
+    font-size: 50px;
+    margin-left: 100px;
+}
